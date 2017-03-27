@@ -1,6 +1,6 @@
 ## Hello Elium Students!
 
-Welcome to our living precourse.  We'll be updating this document regularly so be sure to stop by often for bits of humor (we think), helpful tips and fresh study resources.  Feel free to send us anything you think we missed and we'll be sure to include it!
+Welcome to our living precourse.  We'll be updating this document regularly so be sure to stop by often for bits of humor (we think), helpful tips and fresh study resources.  Feel free to send us anything you think we missed, or fork and send us a pull request!
 
 There are a few things you should do to be prepared for the first week, checkit ->
 
