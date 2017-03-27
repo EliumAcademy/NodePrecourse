@@ -6,8 +6,8 @@ There are a few things you should do to be prepared for the first week, checkit 
 
 1. _Keep in touch!  Along with a link to this repostory you’ll have received an invitation to the Elium Community’s Slack channel.  Talk to each other!  Ask coding questions, find a room mate to same some $$$, as us any questions you have._
 2. _Complete Practical Javascript through version 6. Gordon has put together an outstanding introduction to good coding and development - these are the hardest skills to learn and the most fundamental. We'll be using the code you complete as a foudnation for the first projects so come prepared!_
-3. _Write a code every day. Check out this famous article by the inventor of JQuery for some motivation._
-4. _keep a coding journal using this website.  Each day answer these questions in one sentance or a short list:_ 
+3. _Write code every day. Check out this famous article by the inventor of JQuery for some motivation._
+4. _keep a learning journal using this website.  Each day answer these questions in one sentance or a short list:_ 
  	* what you will work on today 
 	* what you acomplished	
 	* what you struggled with	
