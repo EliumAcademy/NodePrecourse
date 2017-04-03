@@ -1,7 +1,7 @@
 
 ## Hello Elium Students!
 
-Welcome to our living precourse.  We'll be updating this document regularly so be sure to stop by often for bits of humor (we think), helpful tips and fresh study resources.  Feel free to send us anything you think we missed, or fork and send us a pull request!
+Welcome to our living precourse.  We'll be updating this document regularly so be sure to stop by often for bits of humor (we think), helpful tips and fresh study resources.  Feel free to send us anything you think we missed!
 
 There are a few things you should do to be prepared for the first week, checkit ->
 
@@ -13,7 +13,7 @@ There are a few things you should do to be prepared for the first week, checkit 
 	* what you acomplished	
 	* what you struggled with	
 	* what you’ll work on tomorrow. 
-5. _If you finish the WatchAndCode, start studying the development environment; Sublime, Chrome Console, Command line, Git and Github (check out the resources section for more info).  We'll be exploring this in the first week, the more prepared you are the more you'll learn!_
+5. _Once youre comfortable do code wars_
 
 In the first days we'll be meeting with each of you individually to go over the work you completed in the precourse and to set personalized objectives.  BE PREPARED
 
