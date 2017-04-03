@@ -3,9 +3,14 @@
 
 Welcome to our living precourse.  We'll be updating this document regularly so be sure to stop by often for bits of humor (we think), helpful tips and fresh study resources.  Feel free to send us anything you think we missed!
 
+the basis of our precourse is this: link.  check it out
+
+here's some thigns to keep in mind while following along - the rest of the list but no list
+
 There are a few things you should do to be prepared for the first week, checkit ->
 
-1. _Keep in touch!  Along with a link to this repostory you’ll have received an invitation to the Elium Community’s Slack channel.  Talk to each other!  Ask coding questions, find a room mate to same some $$$, as us any questions you have._
+1. _Keep in touch!  Along with a link to this repostory you’ll have received an invitation to the Elium Community’s Slack channel. - describe slack, issue with link contact me, ask alumni specifics (laurens, nicolas) -  Talk to each other!  Ask coding questions, share your ideas for projects, ask us any questions you have._
+	list of names of people to ask questions to, their languages
 2. _Complete Practical Javascript through version 6. Gordon has put together an outstanding introduction to good coding and development - these are the hardest skills to learn and the most fundamental. We'll be using the code you complete as a foudnation for the first projects so come prepared!_
 3. _Write code every day. Check out this famous article by the inventor of JQuery for some motivation._
 4. _keep a learning journal using this website.  Each day answer these questions in one sentance or a short list:_ 
@@ -13,6 +18,7 @@ There are a few things you should do to be prepared for the first week, checkit 
 	* what you acomplished	
 	* what you struggled with	
 	* what you’ll work on tomorrow. 
+		make this just a suggestion
 5. _Once youre comfortable do code wars_
 
 In the first days we'll be meeting with each of you individually to go over the work you completed in the precourse and to set personalized objectives.  BE PREPARED
