@@ -5,10 +5,13 @@ Welcome to our living precourse.  We'll be updating this document regularly so b
 
 
 
-the basis of our precourse is [Pratical JavaScript][1] [code reading guide](https://github.com/gordonmzhu/cheatsheet-js) [refrence style](https://github.com/GeorgeFourikis/Simplify-JavaScript) [Gordon Zhu](https://github.com/gordonmzhu)
+To prepare for the program, follow the [Pratical JavaScript](https://watchandcode.com/p/practical-javascript) tutorial through version 6. 
+You may find these resources to be helpful:  
+	
+1. [Simplify Javascript](https://github.com/GeorgeFourikis/Simplify-JavaScript) - a refrence of the examples and concepts Gordon introduces, made for you personally by George.   
+2. [CheatSheet JS][3] (https://github.com/gordonmzhu) - an accompanying document made by Gordon himself.
 
-here's some thigns to keep in mind while following along - the rest of the list but no list
-
+The best way to succeed is to do just a little every day, even just one video.  Check out this motivational [article](http://ejohn.org/blog/write-code-every-day/) by John Resig himself, the inventor of jQuery.
 There are a few things you should do to be prepared for the first week, checkit ->
 
 Be sure to keep in touch until the course starts!  Along with a link to this precourse, you have received an invitation to Slack.  This is a group messanger app we use among our team, students, and alumni to stay connected.  If you didn't receive the link or it didn't work for you send an email to us (sophie@elium.academy) and we'll get you set up.
@@ -38,4 +41,6 @@ We look forward to seeing you soon. in the mean time, keep in touch!
 love from The Elium Team
  
 
-[1]: https://watchandcode.com/p/practical-javascript
+
+[2]: https://github.com/GeorgeFourikis/Simplify-JavaScript
+[3]: https://github.com/gordonmzhu
