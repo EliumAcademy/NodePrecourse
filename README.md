@@ -11,15 +11,14 @@ You may find these resources to be helpful:
 1. [Simplify Javascript](https://github.com/GeorgeFourikis/Simplify-JavaScript) - a refrence of the examples and concepts Gordon introduces, made for you personally by George.   
 2. [CheatSheet JS][3] (https://github.com/gordonmzhu) - an accompanying document made by Gordon himself.
 
-The best way to succeed is to do just a little every day, even just one video.  Check out this motivational [article](http://ejohn.org/blog/write-code-every-day/) by John Resig himself, the inventor of jQuery.
-There are a few things you should do to be prepared for the first week, checkit ->
+The best way to succeed is to do a little every day, even just one video!  Check out this motivational [article](http://ejohn.org/blog/write-code-every-day/) by John Resig himself, the inventor of jQuery.
 
 Be sure to keep in touch until the course starts!  Along with a link to this precourse, you have received an invitation to Slack.  This is a group messanger app we use among our team, students, and alumni to stay connected.  If you didn't receive the link or it didn't work for you send an email to us (sophie@elium.academy) and we'll get you set up.
-To get to know your fellow Fullstack Cohort members, share tips for the precourse, or start sharing your project ideas - post in the Slack channel 'Node_2017_may'.
-For questions about student life or how to prepare, send a Slack message to our almuni mentors (@nofor and @laurens).
-For questions about course sepcifics send a Slack message to our head of accademics (@evan-elium).
-For questions about housing, visas, or anything non-academic send an email to our student coordinator (sophie@elium.academy).
-If you're looking for something fun to do in Brussels or want to share your favorite meme, send out a message over the Slack 'random' channel.
+*To get to know your fellow Fullstack Cohort members, share tips for the precourse, or start sharing your project ideas - post in the Slack channel 'Node_2017_may'.
+*For questions about student life or how to prepare, send a Slack message to our almuni mentors (@nofor and @laurens).
+*For questions about course sepcifics send a Slack message to our head of accademics (@evan-elium).
+*For questions about housing, visas, or anything non-academic send an email to our student coordinator (sophie@elium.academy).
+*If you're looking for something fun to do in Brussels or want to share your favorite meme, send out a message over the Slack 'random' channel.
 Keep in touch and see you soon!
 
 1. _Keep in touch!  Along with a link to this repostory you’ll have received an invitation to the Elium Community’s Slack channel. - describe slack, issue with link contact me, ask alumni specifics (laurens, nicolas) -  Talk to each other!  Ask coding questions, share your ideas for projects, ask us any questions you have._
