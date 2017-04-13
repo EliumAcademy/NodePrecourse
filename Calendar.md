@@ -1,64 +1,64 @@
 Week by Week Schedule
 
-Phase 1 (4 weeks):  javascript, logic and programming fundamentals
-  week 1: 
-    define individual mentoring plan
-    computer setup
-    problem solving toolkit
-    javascript 
-  week 2:
-    logic and problem solving
-    javascript 
-    html, css
-  week 3:
-    MVC architecture
-    bootstrap
-    logic and problem solving
-  week 4:
-    jquery
-    app structure
-    intro to node
-    http and the internet
-    
-Phase 2 (3 weeks):  application design, databases, node/express
-  week 5:
-    single file express apps
-    CRUD apps
-    express configuration
-    templating
-    http
-    intro to db's
-  week 6:
-    app design
-    db's
-    sessions 
-    require/export and Router.js
-  week 7:
-    user accounts
-    from scratch project week
-    
-Phase 3 (2 weeks):  single page apps
-  week 8:
-    es6 classes
-    single page app design
-    asynch server calls (ajax)
-  week 9:
-    intro to react
-    planning for final project
-    
-Phase 4 (3 weeks):  final project, developer track or Entrepreneur track
- 
- Dev track:
-    mock interviews with partner companies
-    CV
-    React/router project
-    Portfolio polishing
- 
- Entrepreneur track:
-    Buisness plan
-    pitch
-    MVP
-    tricked out landing page
+Phase 1 (4 weeks):  javascript, logic and programming fundamentals  
+  week 1:   
+    define individual mentoring plan  
+    computer setup  
+    problem solving toolkit  
+    javascript   
+  week 2:  
+    logic and problem solving  
+    javascript   
+    html, css  
+  week 3:  
+    MVC architecture  
+    bootstrap  
+    logic and problem solving   
+  week 4:  
+    jquery  
+    app structure  
+    intro to node  
+    http and the internet   
+      
+Phase 2 (3 weeks):  application design, databases, node/express  
+  week 5:  
+    single file express apps  
+    CRUD apps  
+    express configuration  
+    templating  
+    http  
+    intro to db's  
+  week 6:  
+    app design  
+    db's  
+    sessions   
+    require/export and Router.js  
+  week 7:  
+    user accounts  
+    from scratch project week  
+      
+Phase 3 (2 weeks):  single page apps  
+  week 8:  
+    es6 classes  
+    single page app design  
+    asynch server calls (ajax)  
+  week 9:  
+    intro to react  
+    planning for final project  
+      
+Phase 4 (3 weeks):  final project, developer track or Entrepreneur track  
+   
+ Dev track:  
+    mock interviews with partner companies  
+    CV  
+    React/router project  
+    Portfolio polishing  
+   
+ Entrepreneur track:  
+    Buisness plan  
+    pitch  
+    MVP  
+    growth-hacked landing page  
 
 
 
