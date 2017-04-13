@@ -52,7 +52,6 @@
 |     | -   CV                                                                  |    
 |     | -   React/router Project                                                |
 |     | -   Portfolio Polishing                                                 |
-|     |                                                                         |
 |     | Entrepreneur track:                                                     |
 |     | -   Business Plan                                                       |
 |     | -   Pitch                                                               |
