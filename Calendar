@@ -1,72 +1,65 @@
-Week by Week Schedule
+|     | Course Outline                                                          |
+|-----|-------------------------------------------------------------------------|
+|     | Phase 1 (4 weeks): JavaScript, Logic and Programming Fundamentals       |
+|     | Week 1:                                                                 |
+|     | -   Define individual mentoring plan                                    |
+|     | -   Computer setup                                                      |
+|     | -   Problem solving toolkit                                             |
+|     | -   JavaScript                                                          |
+|     | Week 2:                                                                 |
+|     | -   Logic and problem solving                                           |
+|     | -   JavaScript                                                          |
+|     | -   HTML, CSS                                                           |
+|     | Week 3:                                                                 |
+|     | -   MVC Architecture                                                    |
+|     | -   Bootstrap                                                           |
+|     | -   Logic and Problem Solving                                           |
+|     | Week 4:                                                                 |
+|     | -   JQuery                                                              |
+|     | -   App Structure                                                       |
+|     | -   Introduction to Node JS                                             |
+|     | -   HTTP and the Internet                                               |
+|     |                                                                         |
+|     | Phase 2 (3 weeks): Application Design, Databases, Node JS/Express       |
+|     | Week 5:                                                                 |
+|     | -   Single file express applications                                    |
+|     | -   CRUD Applications                                                   |
+|     | -   Express configuration                                               |
+|     | -   Templating                                                          |
+|     | -   HTTP                                                                |
+|     | -   Introduction to Databases                                           |
+|     | Week 6:                                                                 |
+|     | -   App Design                                                          |
+|     | -   Databases                                                           |
+|     | -   Sessions                                                            |
+|     | -   Require/Export and Router.js                                        |
+|     | Week 7:                                                                 |
+|     | -   User Accounts                                                       |
+|     | -   Project week                                                        |
+|     |                                                                         |
+|     | Phase 3 (2 weeks): Single Page Applications                             |
+|     | Week 8:                                                                 |
+|     | -   ES6 Classes                                                         |
+|     | -   Single page Application Design                                      |
+|     | -   ASynch server calls (AJAX)                                          |
+|     | Week 9:                                                                 |
+|     | -   Introduction to React                                               |
+|     | -   Planning for Final Project                                          |
+|     |                                                                         |
+|     | Phase 4 (3 weeks): final project, developer track or Entrepreneur track |
+|     |                                                                         |
+|     | Development track:                                                      |
+|     | -   Mock interviews with partner companies                              
+                                                                                
+       -   CV                                                                   
+                                                                                
+       -   React/router Project                                                 |
+|     | -   Portfolio Polishing                                                 |
+|     |                                                                         |
+|     | Entrepreneur track:                                                     |
+|     | -   Business Plan                                                       |
+|     | -   Pitch                                                               |
+|     | -   MVP                                                                 |
+|     | -   Growth-hacked landing page                                          |
 
-Phase 1 (4 weeks):  javascript, logic and programming fundamentals  
-  week 1:   
-    define individual mentoring plan  
-    computer setup  
-    problem solving toolkit  
-    javascript   
-  week 2:  
-    logic and problem solving  
-    javascript   
-    html, css  
-  week 3:  
-    MVC architecture  
-    bootstrap  
-    logic and problem solving   
-  week 4:  
-    jquery  
-    app structure  
-    intro to node  
-    http and the internet   
-      
-Phase 2 (3 weeks):  application design, databases, node/express  
-  week 5:  
-    single file express apps  
-    CRUD apps  
-    express configuration  
-    templating  
-    http  
-    intro to db's  
-  week 6:  
-    app design  
-    db's  
-    sessions   
-    require/export and Router.js  
-  week 7:  
-    user accounts  
-    from scratch project week  
-      
-Phase 3 (2 weeks):  single page apps  
-  week 8:  
-    es6 classes  
-    single page app design  
-    asynch server calls (ajax)  
-  week 9:  
-    intro to react  
-    planning for final project  
-      
-Phase 4 (3 weeks):  final project, developer track or Entrepreneur track  
-   
- Dev track:  
-    mock interviews with partner companies  
-    CV  
-    React/router project  
-    Portfolio polishing  
-   
- Entrepreneur track:  
-    Buisness plan  
-    pitch  
-    MVP  
-    growth-hacked landing page  
-
-
-
-
-
-
-
-
-
-
-
+(Thank you for the formatting Glen.  - Evan)
