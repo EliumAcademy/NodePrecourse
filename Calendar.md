@@ -47,13 +47,10 @@
 |     | -   Planning for Final Project                                          |
 |     |                                                                         |
 |     | Phase 4 (3 weeks): final project, developer track or Entrepreneur track |
-|     |                                                                         |
 |     | Development track:                                                      |
-|     | -   Mock interviews with partner companies                              
-                                                                                
-       -   CV                                                                   
-                                                                                
-       -   React/router Project                                                 |
+|     | -   Mock interviews with partner companies                              |  
+|     | -   CV                                                                  |    
+|     | -   React/router Project                                                |
 |     | -   Portfolio Polishing                                                 |
 |     |                                                                         |
 |     | Entrepreneur track:                                                     |
