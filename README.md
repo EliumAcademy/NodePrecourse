@@ -10,7 +10,8 @@ You may find these resources to be helpful:
 1. [Simplify Javascript](https://github.com/GeorgeFourikis/Simplify-JavaScript) - a refrence of the examples and concepts Gordon introduces, made for you personally by George.   
 2. [CheatSheet JS](https://github.com/gordonmzhu) - an accompanying document made by Gordon himself.
 
-The best way to succeed is to do a little every day, even just one video!  Check out this motivational [article](http://ejohn.org/blog/write-code-every-day/) by John Resig himself, the inventor of jQuery.  This [website](https://codehalf.com) is a great tool for keeping yourself on track.
+The best way to succeed is to do a little every day, even just one video!  Check out this motivational [article](http://ejohn.org/blog/write-code-every-day/) by John Resig himself, the inventor of jQuery.  This [website](https://codehalf.com) is a great tool for keeping yourself on track.  
+Also share your favorite [code wars](https://www.codewars.com/trainer/setup) on slack to keep your problem solving sharp.  
 
 Be sure to keep in touch!  
 
