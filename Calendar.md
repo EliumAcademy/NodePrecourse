@@ -1,5 +1,10 @@
 |     | Course Outline                                                          |
 |-----|-------------------------------------------------------------------------|
+|     | Week 0:                                                                 |
+|     | -   Finish up your precourse!                                           |  
+|     | -   Hang out with the Elium team                                        |  
+|     | -   Hang out with eachother                                             |
+|     |                                                                         |  
 |     | Phase 1 (4 weeks): JavaScript, Logic and Programming Fundamentals       |
 |     | Week 1:                                                                 |
 |     | -   Define individual mentoring plan                                    |
