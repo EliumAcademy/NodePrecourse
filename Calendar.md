@@ -3,7 +3,7 @@
 |     | Week 0:                                                                 |
 |     | -   Finish up your precourse!                                           |  
 |     | -   Hang out with the Elium team                                        |  
-|     | -   Hang out with eachother                                             |
+|     | -   Hang out with eachother in beautiful Brussels                       |
 |     |                                                                         |  
 |     | Phase 1 (4 weeks): JavaScript, Logic and Programming Fundamentals       |
 |     | Week 1:                                                                 |
