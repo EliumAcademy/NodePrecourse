@@ -1,3 +1,6 @@
+Our curriculum is based on the idea that you learn best by building the most relevant projects.  
+Take a look at gloaysa's [repository](https://github.com/gloaysa/demoPorfolio) to see what you'll be making!
+
 The program will have two parts: 
 
 The main curriculum covers three related topics and is designed to bring everyone up to self-sufficiency:
