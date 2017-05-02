@@ -6,3 +6,5 @@ Being a Developer
   
 Staying Motivated
   - Be bad at something, it's [good for you](https://www.ted.com/talks/eduardo_briceno_how_to_get_better_at_the_things_you_care_about).
+  
+ Study (smarter)[https://youtu.be/Xt5qpbiqw2g?t=297], not harder!
