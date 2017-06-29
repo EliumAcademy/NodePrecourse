@@ -4,7 +4,7 @@
 Welcome to our living precourse.  We'll be updating this document regularly so be sure to stop by often for bits of humor (we think), helpful tips and fresh study resources.  Feel free to ask for more resources on any topic or let us know if we missed anything!
 
 
-To prepare for the program, follow the [Practical JavaScript](https://watchandcode.com/p/practical-javascript) tutorial.   
+To prepare for the program, follow the [Practical JavaScript](https://watchandcode.com/p/practical-javascript) tutorial and push your finished stages to your github account.   
 You may find these resources to be helpful:  
 	
 1. [Simplify Javascript](https://github.com/GeorgeFourikis/Simplify-JavaScript) - a refrence of the examples and concepts Gordon introduces, made for you personally by George.   
