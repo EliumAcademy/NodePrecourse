@@ -6,4 +6,3 @@ Absolute Must-Reads:
 Neat perspectives on being a developer:  
    * [Killer Article](http://peternixey.com/post/83510597580/how-to-be-a-great-software-developer) - long, but worth every word.  
    * [Top 8 Developer Habits](https://www.youtube.com/watch?v=DwQ7psiU23I&index=1&list=PL0zVEGEvSaeGY3RMjGo4CgMPN42_U9Glu) - Video series by Mr. Funfunfuncion.  He'll become your good friend. 
-
