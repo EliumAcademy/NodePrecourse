@@ -12,4 +12,4 @@
 	* [Exercises](jsFounds/exercises.md)  	
 * [Development Process](devProcess/README.md) 
 	* [Practical Javascript](devProcess/practicalJavascript.md)  
-	* [Resources](devProcess/resources.md)   
+	* [Resources](devProcess/resources.md)  
