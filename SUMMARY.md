@@ -13,6 +13,6 @@
 	* [Practical Javascript](devProcess/practicalJavascript.md)  
 	* [Resources](devProcess/resources.md)  
 * [Git and Hub](git-hub/README.md)  
-  	* [what you'll need](git-hub/gitAndHub.md) 
+	* [what you'll need](git-hub/gitAndHub.md)  
 * [Final Project](final-project/README.md)
 
