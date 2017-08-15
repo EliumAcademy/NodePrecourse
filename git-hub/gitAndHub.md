@@ -7,7 +7,7 @@ A good site to practice:
    * The best place to [practice git branching](http://learngitbranching.js.org/).   -  The first 3 of 'Main', the first 6 of 'Remote'  
  
 
-**These last two will be necessary for your final project.  **
+**These last two will be necessary for your final project.**
   
 Learn [git tagging](http://alblue.bandlem.com/2011/04/git-tip-of-week-tags.html).  
   
