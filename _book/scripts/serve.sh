@@ -1,6 +1,6 @@
 # add, commit recent changes
 git add .
-git commit -m 'building'
+git commit -m 'test serving'
 # build new gitbook
 gitbook build
 # copy it out of the way for branch change
@@ -17,19 +17,5 @@ cp -rf ../book-holder/. ./pathbook
 # commit changes
 git add .
 git commit -m 'publishing'
-# publish changes
-git push origin gh-pages
-# return to master
-git checkout master
-
-
-
-
-
-################################################
-#  this script requires a file structure like this:
-# 
-#	 ** a host directory, empty but for the cloned repo **
-# 	|
-# 	|- pathbook -> the cloned repo
-# 		|- the book md (when not on gh-pages)
+# serve
+gitbook serve
